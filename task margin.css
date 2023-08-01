@@ -1,0 +1,30 @@
+.a{
+	background-color:white;
+	height:500px;
+	width:1000px;
+}
+.b{
+	float:left;
+	background-color:white;
+	height:500px;
+	width:300px;
+	margin-right:40px;
+	margin-left:10px;
+	border:2px solid brown;
+
+}
+.c{
+   float:left;
+   background-color:white;
+   height:500px;
+   width:300px;
+   margin-right:10px;
+   border:2px solid brown;
+}
+.d{
+  float:right;
+  background-color:white;
+  height:500px;
+  width:300px;
+  border:2px solid brown;
+}

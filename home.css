@@ -1,0 +1,44 @@
+div{
+	padding-left:150px;
+	padding-right:200px;
+}
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:10%;
+}
+p{
+	text-align:justify;
+}
+table{
+	height:200px;
+	width:1000px;
+}
+.a{
+
+    line-height:1.5;
+	text-align:center;
+	height:200px;
+	width:800px;
+	background-color:lightgrey;
+}
+.b{
+	text-align:justify;
+	height:200px;
+	width:800px;
+	line-height:2;
+	background-color:lightgrey;
+}
+p{
+	text-align:justify;
+}
+.s{
+	text-align:right;
+
+}
+textarea{
+	height:200px;
+	width:150px;
+}
+
